@@ -1,8 +1,8 @@
 class Deckhand < Formula
   desc "Turn a folder of HTML slides into a presentation: stage, phone remote, live audience"
   homepage "https://deckhand.stranix.net"
-  url "https://github.com/stranix79/deckhand/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "22969a416ed8b25496295308777a552d83d7c820e8dab100e0d268b87708913a"
+  url "https://github.com/stranix79/deckhand/archive/refs/tags/v1.0.0.tar.gz"
+  sha256 "22071b43340019ec782945e054ee638ea208b65fcc3f567971f69c936926e01e"
   license "MIT"
   head "https://github.com/stranix79/deckhand.git", branch: "main"
 
